@@ -1,2 +1,2 @@
-# tgc-eso-addon
-The Gaming Council ESO add on.
+# pb-eso-addon
+The ESO add on maintained by Pixel Booty.
